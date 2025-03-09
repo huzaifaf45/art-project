@@ -8,11 +8,10 @@ function DramaPage() {
     <div className="space-y-12 pb-12">
       <header className="text-center space-y-4 py-8">
         <h1 className="text-4xl font-bold text-teal-800">
-          Drama and Creative Expression
+          DRAMA AND PUPPETRY
         </h1>
         <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-          Nurturing imagination, social skills, and emotional development
-          through dramatic play
+          Nurturing imagination, social skills, and emotional development through dramatic play
         </p>
       </header>
 
@@ -21,17 +20,12 @@ function DramaPage() {
         <div className="md:flex">
           <div className="md:w-1/2 p-8 flex flex-col justify-center">
             <h2 className="text-2xl font-bold text-teal-800 mb-4">
-              The Magic of Dramatic Play
+              Introduction
             </h2>
             <p className="text-gray-600 leading-relaxed">
-              Dramatic play offers children a unique opportunity to imitate and
-              explore behaviors from real-life scenarios and stories. Through
-              role-playing, children develop crucial interpersonal skills while
-              expressing their ideas creatively. This form of play naturally
-              enhances social, cognitive, and language development as children
-              learn about different roles and responsibilities. The beauty of
-              dramatic play lies in its boundless potential—children can create
-              their own characters and build entire imaginative worlds.
+              Introducing drama and puppetry in early childhood gives children a number of chances to develop social skills, regulate their emotions and unlock their imagination through storytelling. Through these activities they see world from various aspects and learn about different perceptions which will strengthen their communication abilities and make them empathetic. (Dinham & Chalk 2023)
+              The shy or reluctant children when get to see puppetry they learn to express their inner emotions non verbally through characters. Research shows that dramatic play allows children to develop problem solving and cognitive development. (Mayesky,2021)
+              By bringing drama and puppetry into early childhood learning the teachers can also play their role in making kids confident, making them learn teamwork and how they can adapt to different situations. These activities make learning fun and also develop skills in meaningful and engaging way.
             </p>
           </div>
           <div className="md:w-1/2">
@@ -44,87 +38,43 @@ function DramaPage() {
         </div>
       </section>
 
-      {/* Section 2: Theoretical Foundations - Image Left, Text Right */}
+      {/* Section 2: Creativity Theory - Image Left, Text Right */}
       <section className="bg-white rounded-lg shadow-lg overflow-hidden">
         <div className="md:flex flex-row-reverse">
           <div className="md:w-1/2 p-8 flex flex-col justify-center">
             <h2 className="text-2xl font-bold text-teal-800 mb-4">
-              Theoretical Foundations of Drama in Early Childhood
+              Creativity theory
             </h2>
             <p className="text-gray-600 leading-relaxed">
-              The value of dramatic play is supported by influential
-              developmental theories. Vygotsky's sociocultural theory emphasizes
-              how interactions with peers and adults foster intellectual growth,
-              highlighting collaborative dramatic play as a catalyst for
-              creativity and communication skills. Erikson's psychosocial theory
-              underscores play's role in emotional regulation and identity
-              formation. Through puppetry and role-play, children explore
-              diverse scenarios and roles, enhancing their psychological
-              development and understanding of social dynamics. Both theoretical
-              perspectives affirm that drama and puppetry are powerful tools for
-              nurturing creativity in early childhood.
+              Vygotsky theory of social constructivism tell how cognitive and social skills can be developed by role-playing because when children are involved in social interactions, they learn the best. He gave the concept of zone of proximal development which tells how dram helps children to explore ideas. The Reggio Emilia approach values storytelling and performance as always for children to express their "hundred languages" of creativity (Edwards, Gandini, & Forman, 2012), reinforcing the importance of drama and puppetry in early learning.
             </p>
           </div>
           <div className="md:w-1/2">
             <img
               src="https://images.unsplash.com/photo-1511933617088-859b414f00ae?auto=format&fit=crop&w=800&q=80"
               alt="Children using puppets for storytelling"
-              className="w-full h-[650px] object-cover"
+              className="w-full h-full object-cover"
             />
           </div>
         </div>
       </section>
 
-      {/* Section 3: Age-Appropriate Activities - Image Right, Text Left */}
+      {/* Section 3: Resources - Image Right, Text Left */}
       <section className="bg-white rounded-lg shadow-lg overflow-hidden">
         <div className="md:flex">
           <div className="md:w-1/2 p-8 flex flex-col justify-center">
             <h2 className="text-2xl font-bold text-teal-800 mb-4">
-              Developmental Drama Experiences
+              Resources
             </h2>
-            <div className="space-y-4">
-              <div className="border-l-4 border-teal-500 pl-4">
-                <h3 className="font-semibold text-lg">Infants (0-2 Years)</h3>
-                <p className="text-gray-600">
-                  Gentle puppet interactions introduce babies to basic
-                  storytelling, encouraging language development as they respond
-                  with sounds and movements to the puppets' actions.
-                </p>
-              </div>
-              <div className="border-l-4 border-teal-500 pl-4">
-                <h3 className="font-semibold text-lg">Toddlers (2-3 Years)</h3>
-                <p className="text-gray-600">
-                  Animal movement games invite toddlers to mimic creatures
-                  through sounds and actions, developing gross motor skills,
-                  creativity, and emotional expression.
-                </p>
-              </div>
-              <div className="border-l-4 border-teal-500 pl-4">
-                <h3 className="font-semibold text-lg">
-                  Preschoolers (3-5 Years)
-                </h3>
-                <p className="text-gray-600">
-                  Puppet storytelling empowers children to retell familiar
-                  stories or create original narratives, enhancing language
-                  skills and narrative creativity.
-                </p>
-              </div>
-              <div className="border-l-4 border-teal-500 pl-4">
-                <h3 className="font-semibold text-lg">
-                  Early Elementary (6-8 Years)
-                </h3>
-                <p className="text-gray-600">
-                  Collaborative puppet shows enable children to work in groups
-                  to develop stories, create characters, write scripts, and
-                  perform for peers, building teamwork and public speaking
-                  confidence.
-                </p>
-              </div>
-            </div>
+            <p className="text-gray-600 leading-relaxed">
+              In drama education, a blend of traditional and digital resources is used to create a new kind of learning environment for children to explore creativity and problem solving. Traditional resources include hand puppets, finger Puppets, shadow puppetry screens, dress up costumes, mask shows, stick puppets and prop boxes. These traditional resources promote collaboration which will encourage storytelling and imaginative thinking will be improved. For example, a group of children might use a puppet theater and hand puppets to perform a classic fairy tale, or use dress-up costumes and prop boxes to create an original story about a magical kingdom.
+              The digital resources include different apps like do inks, puppet pals, seesaw and story jumpers. Children can create their own puppets on their mobiles and tablets by using apps like puppet pals. Interactive whiteboards can be used for group scriptwriting or to display acting prompts, making the process more engaging and collaborative. When these resources are used in combination it will expose the educators and Teachers to a number of new learning styles and children regardless of their preferences engage in drama which Is now more enjoyable and meaningful for them.
+              Providing both physical and digital resources allows children to explore drama in multiple ways, catering to different learning styles and developmental stages (Cartmel & Hayes,2016)
+            </p>
           </div>
           <div className="md:w-1/2">
             <img
-              src={Image4}
+              src={Image2}
               alt="Children performing with puppets"
               className="w-full h-full object-cover"
             />
@@ -132,53 +82,61 @@ function DramaPage() {
         </div>
       </section>
 
-      {/* Section 4: Materials and Resources - Image Left, Text Right */}
+      {/* Section 4: Learning Activities - Image Left, Text Right */}
       <section className="bg-white rounded-lg shadow-lg overflow-hidden">
         <div className="md:flex flex-row-reverse">
           <div className="md:w-1/2 p-8 flex flex-col justify-center">
             <h2 className="text-2xl font-bold text-teal-800 mb-4">
-              Drama and Puppetry Resources
+              Learning activities for different ages
             </h2>
-            <div className="grid md:grid-cols-2 gap-6">
-              <div className="space-y-2">
-                <h3 className="font-semibold text-lg">
-                  Dramatic Play Essentials
-                </h3>
-                <ul className="list-disc list-inside text-gray-600">
-                  <li>Diverse costumes</li>
-                  <li>Various puppets</li>
-                  <li>Storybooks</li>
-                  <li>Musical instruments</li>
-                  <li>Makeup kits</li>
-                </ul>
+            <div className="space-y-4">
+              <div className="border-l-4 border-teal-500 pl-4">
+                <h3 className="font-semibold text-lg">Babies (0-2 years)</h3>
+                <p className="text-gray-600">
+                  Play simple games like peekaboo or use puppets to sing songs like "Twinkle, Twinkle." These activities help little ones connect with sounds and movements
+                </p>
               </div>
-              <div className="space-y-2">
-                <h3 className="font-semibold text-lg">Props and Settings</h3>
-                <ul className="list-disc list-inside text-gray-600">
-                  <li>Mirrors</li>
-                  <li>Masks</li>
-                  <li>Dedicated play spaces</li>
-                  <li>Themed toys</li>
-                  <li>Household items</li>
-                </ul>
+              <div className="border-l-4 border-teal-500 pl-4">
+                <h3 className="font-semibold text-lg">Toddlers (2-3 years)</h3>
+                <p className="text-gray-600">
+                  Use finger puppets to try out silly voices and act out short, simple stories together.
+                </p>
               </div>
-              <div className="space-y-2">
-                <h3 className="font-semibold text-lg">Digital Tools</h3>
-                <ul className="list-disc list-inside text-gray-600">
-                  <li>Video cameras</li>
-                  <li>Tablets</li>
-                  <li>Recording equipment</li>
-                  <li>Storytelling apps</li>
-                </ul>
+              <div className="border-l-4 border-teal-500 pl-4">
+                <h3 className="font-semibold text-lg">Preschoolers (3-5 years)</h3>
+                <p className="text-gray-600">
+                  Act out favorite stories (like "The Three Little pigs") using puppets or small puppet theaters
+                </p>
               </div>
-              <div className="space-y-2">
-                <h3 className="font-semibold text-lg">Benefits of Drama</h3>
-                <ul className="list-disc list-inside text-gray-600">
-                  <li>Communication skills</li>
-                  <li>Emotional intelligence</li>
-                  <li>Problem-solving</li>
-                  <li>Self-expression</li>
-                </ul>
+              <div className="border-l-4 border-teal-500 pl-4">
+                <h3 className="font-semibold text-lg">Older Kids (6-8 years)</h3>
+                <p className="text-gray-600">
+                  Write short scripts and put on group plays, using both regular puppets and digital tools like apps
+                </p>
+              </div>
+            </div>
+            
+            <h2 className="text-2xl font-bold text-teal-800 mb-4 mt-8">
+              Fun learning ideas
+            </h2>
+            <div className="space-y-4">
+              <div className="border-l-4 border-teal-500 pl-4">
+                <h3 className="font-semibold text-lg">Babies: Mirror Puppet Play</h3>
+                <p className="text-gray-600">
+                  Use soft puppets and a mirror. Babies can copy the puppet's faces and sounds, which helps them learn about emotions and social skills.
+                </p>
+              </div>
+              <div className="border-l-4 border-teal-500 pl-4">
+                <h3 className="font-semibold text-lg">Toddlers: Puppet Story Builders</h3>
+                <p className="text-gray-600">
+                  A puppet "asks" the kids to help make up a story. Each child adds a sentence or action, creating a fun story together.
+                </p>
+              </div>
+              <div className="border-l-4 border-teal-500 pl-4">
+                <h3 className="font-semibold text-lg">Preschoolers: Puppet Mystery Box</h3>
+                <p className="text-gray-600">
+                  Kids pick a random item from a box (like a toy or prop) and use it to make up a short puppet show. This helps them think creatively and use their imagination. These activities are easy, fun, and help kids learn important skills while having a great time.
+                </p>
               </div>
             </div>
           </div>
@@ -192,37 +150,26 @@ function DramaPage() {
         </div>
       </section>
 
-      {/* Section 5: Educator's Approach - Image Right, Text Left */}
+      {/* Section 5: Reflection - Image Right, Text Left */}
       <section className="bg-white rounded-lg shadow-lg overflow-hidden">
         <div className="md:flex">
           <div className="md:w-1/2 p-8 flex flex-col justify-center">
             <h2 className="text-2xl font-bold text-teal-800 mb-4">
-              Nurturing Dramatic Expression
+              Reflection
             </h2>
             <p className="text-gray-600 leading-relaxed mb-4">
-              Effective drama and puppetry workshops harness the power of
-              storytelling to fully engage young children. Imaginative play
-              serves as a vehicle for exploring complex concepts like
-              friendship, empathy, and social structures in accessible ways. By
-              incorporating improvisation into activities, educators can foster
-              spontaneity and creativity, providing children with safe spaces to
-              express emotions and perspectives while developing communication
-              skills.
+              Drama and puppetry really connect with my creative strengths especially my ability to think quickly and inspire imagination Through storytelling. I believe children can become more exploration and their problem-solving skills can be enhanced if I introduced play and open-ended exploration into my teaching. It will help them to grow along with fun and entertainment. I will make drama and puppetry and essential part of everyday lessons, by this I can create a fun and creative environment where children use their brainstorming skills and imaginative thinking in most creative way.
             </p>
             <p className="text-gray-600 leading-relaxed">
-              Including diverse puppets and props representing various cultures
-              and people helps children understand different viewpoints.
-              Empowering children to lead narrative sessions allows them to
-              artistically explore their feelings and thoughts. This approach
-              not only enhances language development but also builds social
-              skills as children collaborate on performances. The ultimate goal
-              is creating an environment where all children feel valued and
-              inspired to share their stories through play.
+              The best thing about drama is that it connects different aspect of learning like exploring patterns in math, different science concepts and historical events.
+            </p>
+            <p className="text-gray-600 leading-relaxed">
+              If I analyze my teaching approach I feel like flexibility and adaptability are the most important components when using drama with kids. You have to stick to it and go with the flow. Encouraging spontaneous storytelling and role-playing means you give the charge or lead to the children of their learning. By doing this you will create a classroom where children become more responsible and they will let their thoughts and emotions out. They feel free and safe to share their ideas. It will give them freedom to explore imagine and grow in their unique way.
             </p>
           </div>
           <div className="md:w-1/2">
             <img
-              src={Image2}
+              src={Image4}
               alt="Teacher facilitating dramatic play"
               className="w-full h-full object-cover"
             />
@@ -237,14 +184,17 @@ function DramaPage() {
         </h2>
         <div className="max-w-3xl mx-auto">
           <div className="aspect-w-16 aspect-h-9">
-            <video className="rounded-lg w-full" controls preload="metadata">
+            <video
+              className="rounded-lg w-full"
+              controls
+              preload="metadata"
+            >
               <source src={Video2} type="video/mp4" />
               Your browser does not support the video tag.
             </video>
           </div>
           <p className="mt-4 text-gray-600 italic text-center">
-            Explore practical techniques for implementing engaging drama
-            activities in early childhood education
+            Explore practical techniques for implementing engaging drama activities in early childhood education
           </p>
         </div>
       </section>

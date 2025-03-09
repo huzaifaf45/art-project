@@ -7,29 +7,22 @@ function ArtPage() {
     <div className="space-y-12 pb-12">
       <header className="text-center space-y-4 py-8">
         <h1 className="text-4xl font-bold text-teal-800">
-          Artistic Expression in Early Childhood
+          ART
         </h1>
         <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-          Nurturing creativity, self-expression, and cognitive development
-          through art
+          Nurturing creativity, self-expression, and cognitive development through art
         </p>
       </header>
 
-      {/* Section 1: Introduction - Image Right, Text Left */}
+      {/* Section 1: Importance of Art - Image Right, Text Left */}
       <section className="bg-white rounded-lg shadow-lg overflow-hidden">
         <div className="md:flex">
           <div className="md:w-1/2 p-8 flex flex-col justify-center">
             <h2 className="text-2xl font-bold text-teal-800 mb-4">
-              The Power of Artistic Expression
+              Importance of Art in Creativity
             </h2>
             <p className="text-gray-600 leading-relaxed">
-              Art encompasses diverse creative experiences that allow children
-              to express unique ideas visually. As a fundamental component of
-              early childhood education, artistic activities foster creativity,
-              self-expression, and exploration. Through engaging with various
-              materials, textures, and techniques, children develop curiosity,
-              enhance motor skills, and nurture their innate creativity during
-              these formative years.
+              Art provides opportunities for self-expression, sensory analysis, and problem-solving which helps in nurturing creativity of child through early childhood. By the help of sketching, painting, carving, and mixed-media projects, skills like fine motor activities, positional awareness, and imagination are developed (Dinham & Chalk, 2023). By engaging in the work of art we learn throughout the processes of experimentation with different materials and objects not by the results which encourages innovation and risk taking. Engaging in the activities of art develops the communication of the children, helping them express their thoughts and feelings through their work. Integration of curriculum with art develops the creative thinking of the child.
             </p>
           </div>
           <div className="md:w-1/2">
@@ -42,23 +35,15 @@ function ArtPage() {
         </div>
       </section>
 
-      {/* Section 2: Theoretical Foundations - Image Left, Text Right */}
+      {/* Section 2: Creativity Theories - Image Left, Text Right */}
       <section className="bg-white rounded-lg shadow-lg overflow-hidden">
         <div className="md:flex flex-row-reverse">
           <div className="md:w-1/2 p-8 flex flex-col justify-center">
             <h2 className="text-2xl font-bold text-teal-800 mb-4">
-              Theoretical Foundations of Creativity
+              Creativity Theories in Art
             </h2>
             <p className="text-gray-600 leading-relaxed">
-              Understanding childhood creativity is enriched by the perspectives
-              of influential thinkers like Vygotsky and Gardner. Vygotsky's
-              sociocultural approach highlights how social interactions and
-              cultural tools enhance cognitive development and creative
-              expression. Gardner's multiple intelligences theory recognizes
-              spatial and visual-artistic intelligence as distinct cognitive
-              capacities, validating art's essential place in education. Both
-              frameworks emphasize that artistic expression in early childhood
-              cultivates crucial cognitive and emotional capabilities.
+              The Reggio Emilia approach emphasizes art as one of the "hundred languages of children," encouraging self-expression through art and carving (Edwards, Gandini, & Forman, 2012). Lowenfeld's (1947) stages of artistic development emphasizes upon the development of children from scratch to representational drawing, underscoring that creative approach in art work through the early developing years is very important. Vygotsky's (1978) theory of social constructivism hints the importance of art in ethnic and communal activity, suggesting that interaction with other people enhances the skills of creativity in children. These theories emphasizes that children should have experience of dealing with open ended scenarios allowing them to explore and learn about different materials and techniques.
             </p>
           </div>
           <div className="md:w-1/2">
@@ -71,51 +56,20 @@ function ArtPage() {
         </div>
       </section>
 
-      {/* Section 3: Age-Appropriate Activities - Image Right, Text Left */}
+      {/* Section 3: Resources - Image Right, Text Left */}
       <section className="bg-white rounded-lg shadow-lg overflow-hidden">
         <div className="md:flex">
           <div className="md:w-1/2 p-8 flex flex-col justify-center">
             <h2 className="text-2xl font-bold text-teal-800 mb-4">
-              Developmental Art Experiences
+              Resources
             </h2>
-            <div className="space-y-4">
-              <div className="border-l-4 border-teal-500 pl-4">
-                <h3 className="font-semibold text-lg">Infants (0-2 Years)</h3>
-                <p className="text-gray-600">
-                  Sensory exploration through finger painting helps infants
-                  develop fine motor skills while discovering textures and
-                  colors with their fingertips.
-                </p>
-              </div>
-              <div className="border-l-4 border-teal-500 pl-4">
-                <h3 className="font-semibold text-lg">Toddlers (2-3 Years)</h3>
-                <p className="text-gray-600">
-                  Drawing and coloring with crayons and markers helps toddlers
-                  develop eye-hand coordination and creative thinking as they
-                  create their first artistic expressions.
-                </p>
-              </div>
-              <div className="border-l-4 border-teal-500 pl-4">
-                <h3 className="font-semibold text-lg">
-                  Preschoolers (3-5 Years)
-                </h3>
-                <p className="text-gray-600">
-                  Watercolor resist art introduces scientific concepts as
-                  children discover how white crayons resist watercolors,
-                  revealing hidden designs and teaching color theory.
-                </p>
-              </div>
-              <div className="border-l-4 border-teal-500 pl-4">
-                <h3 className="font-semibold text-lg">
-                  Early Elementary (6-8 Years)
-                </h3>
-                <p className="text-gray-600">
-                  Collaborative murals foster teamwork as children plan and
-                  create large-scale art together, developing social skills
-                  alongside artistic expression.
-                </p>
-              </div>
-            </div>
+            <p className="text-gray-600 leading-relaxed">
+              You can engage children into a number of art activities to promote development and creativity. This can be done by using both digital tools and hand crafting materials.
+              The hand crafting material includes paints, brushes, crayons, clay and items like paper, leaves and canvas etc.
+              In today's Era digital art is more into fashion. Digital tools include apps like Paint 3D, storytelling apps like puppet pals and different painting or drawing games.
+              Environment Setup: you can arrange a painting competition in which you supply kids with colors marks glue paper or canvas to express their thoughts freely on canvas with paints.
+              Providing diverse resources lets children experiment with different materials and techniques, promoting both independent and group creativity (Fleet, De Gioia, & Patterson, 2017)
+            </p>
           </div>
           <div className="md:w-1/2">
             <img
@@ -127,51 +81,61 @@ function ArtPage() {
         </div>
       </section>
 
-      {/* Section 4: Materials and Resources - Image Left, Text Right */}
+      {/* Section 4: Learning Activities - Image Left, Text Right */}
       <section className="bg-white rounded-lg shadow-lg overflow-hidden">
         <div className="md:flex flex-row-reverse">
           <div className="md:w-1/2 p-8 flex flex-col justify-center">
             <h2 className="text-2xl font-bold text-teal-800 mb-4">
-              Creative Materials and Digital Resources
+              Learning activities for different ages
             </h2>
-            <div className="grid md:grid-cols-2 gap-6">
-              <div className="space-y-2">
-                <h3 className="font-semibold text-lg">Traditional Materials</h3>
-                <ul className="list-disc list-inside text-gray-600">
-                  <li>Non-toxic paints</li>
-                  <li>Variety of brushes</li>
-                  <li>Crayons and markers</li>
-                  <li>Clay and playdough</li>
-                  <li>Quality paper</li>
-                </ul>
+            <div className="space-y-4">
+              <div className="border-l-4 border-teal-500 pl-4">
+                <h3 className="font-semibold text-lg">Babies (0-2 years)</h3>
+                <p className="text-gray-600">
+                  Use art activities like finger painting and play dough for sensory exploration.
+                </p>
               </div>
-              <div className="space-y-2">
-                <h3 className="font-semibold text-lg">Natural Elements</h3>
-                <ul className="list-disc list-inside text-gray-600">
-                  <li>Leaves and twigs</li>
-                  <li>Stones and pebbles</li>
-                  <li>Shells and seeds</li>
-                  <li>Recycled containers</li>
-                  <li>Fabric scraps</li>
-                </ul>
+              <div className="border-l-4 border-teal-500 pl-4">
+                <h3 className="font-semibold text-lg">Toddlers (2-3 years)</h3>
+                <p className="text-gray-600">
+                  Use ice cube painting hand and foot print painting in these children.
+                </p>
               </div>
-              <div className="space-y-2">
-                <h3 className="font-semibold text-lg">Digital Tools</h3>
-                <ul className="list-disc list-inside text-gray-600">
-                  <li>Drawing applications</li>
-                  <li>Digital cameras</li>
-                  <li>Animation software</li>
-                  <li>Virtual museum tours</li>
-                </ul>
+              <div className="border-l-4 border-teal-500 pl-4">
+                <h3 className="font-semibold text-lg">Preschoolers (3-5 years)</h3>
+                <p className="text-gray-600">
+                  Use art activities that focus on creativity and imaginative thinking like crafting in which they paint on eggs for Easter etc.
+                </p>
               </div>
-              <div className="space-y-2">
-                <h3 className="font-semibold text-lg">Specialized Tools</h3>
-                <ul className="list-disc list-inside text-gray-600">
-                  <li>Safety scissors</li>
-                  <li>Stamps and stencils</li>
-                  <li>Rolling pins</li>
-                  <li>Texture tools</li>
-                </ul>
+              <div className="border-l-4 border-teal-500 pl-4">
+                <h3 className="font-semibold text-lg">Older Kids (6-8 years)</h3>
+                <p className="text-gray-600">
+                  Using art activities that focus on self-expression like handmade greeting cards.
+                </p>
+              </div>
+            </div>
+            
+            <h2 className="text-2xl font-bold text-teal-800 mb-4 mt-8">
+              Fun learning ideas
+            </h2>
+            <div className="space-y-4">
+              <div className="border-l-4 border-teal-500 pl-4">
+                <h3 className="font-semibold text-lg">Babies</h3>
+                <p className="text-gray-600">
+                  Yogurt-based painting: Divide yogurt into many portions and add different food colors to this. Kids will use fingers or brushes to paint this on cookies or paper. This will encourage sensory exploration.
+                </p>
+              </div>
+              <div className="border-l-4 border-teal-500 pl-4">
+                <h3 className="font-semibold text-lg">Toddlers</h3>
+                <p className="text-gray-600">
+                  Ice cube painting: You need ice cubes with different colors in them. Children use these colored ice cubes to paint on paper or canvas. The colors mix and make different textures. It is important for sensory exploration, temperature awareness and creativity when a new color form on color mixing.
+                </p>
+              </div>
+              <div className="border-l-4 border-teal-500 pl-4">
+                <h3 className="font-semibold text-lg">Preschoolers</h3>
+                <p className="text-gray-600">
+                  Handmade greeting cards: Kids use card or colorful papers and cut them into their favorite shapes. They will draw different shapes or flowers on it. They will write their wishes over it with colored pencils and will use stickers to make it more fun. This will encourage imaginative thinking, creativity and fine motor skills. These activities are easy, fun, and help kids learn important skills while having a great time.
+                </p>
               </div>
             </div>
           </div>
@@ -185,27 +149,21 @@ function ArtPage() {
         </div>
       </section>
 
-      {/* Section 5: Educator's Approach - Image Right, Text Left */}
+      {/* Section 5: Critical Reflection - Image Right, Text Left */}
       <section className="bg-white rounded-lg shadow-lg overflow-hidden">
         <div className="md:flex">
           <div className="md:w-1/2 p-8 flex flex-col justify-center">
             <h2 className="text-2xl font-bold text-teal-800 mb-4">
-              Nurturing Artistic Growth
+              Critical Reflection and Evaluation
             </h2>
             <p className="text-gray-600 leading-relaxed mb-4">
-              Creating an environment where children feel free to experiment
-              with various artistic mediums is essential for promoting
-              self-expression and inventiveness. Dedicated art spaces filled
-              with diverse materials encourage discovery and intrinsic
-              motivation.
+              My will power in creativity lies in resilience and nurturing ideas of open-ended exploration. They are the key parts of integrating art into early childhood education. For the creative growth and to develop curiosity among the children I believe that children should be given experiences of art to let them make mistakes and explore new ideas.
             </p>
             <p className="text-gray-600 leading-relaxed">
-              By introducing artistic traditions from different cultures, we
-              expand children's perspectives and foster appreciation for
-              diversity. Prioritizing open-ended projects encourages risk-taking
-              and emphasizes the creative process over the final product.
-              Recognizing each child's unique artistic voice helps build
-              confidence and nurtures a lifelong love of creative expression.
+              Art can act as an influential tool for integrative learning among different curricular areas. For example, Painting can act as a tool to express the emotional learning of the children social environment, create patterns to express your thoughts in mathematics, or they can present an idea for a story through their engagement in art work. Technology also plays an important role; with the help of digital tools the creative approach of children can be maximized by allowing them to explore different animations and digital projects such as painting or posters.
+            </p>
+            <p className="text-gray-600 leading-relaxed">
+              According to me the educator's approach should be conservative during the periods of art work allowing the children to have a fearless attitude and freedom in their approach meanwhile also having the guidance of an adult. Structured and pre-set art activities play a major role in development but child-led open-ended exploration, where risk taking is encouraged helps in building a creative and dynamic approach of a child which help them in their problem solving and also encourages curiosity and children feel empowered.
             </p>
           </div>
           <div className="md:w-1/2">
@@ -225,14 +183,17 @@ function ArtPage() {
         </h2>
         <div className="max-w-3xl mx-auto">
           <div className="aspect-w-16 aspect-h-9">
-            <video className="rounded-lg w-full" controls preload="metadata">
+            <video
+              className="rounded-lg w-full"
+              controls
+              preload="metadata"
+            >
               <source src={ArtVideo} type="video/mp4" />
               Your browser does not support the video tag.
             </video>
           </div>
           <p className="mt-4 text-gray-600 italic text-center">
-            Explore practical techniques for implementing engaging art
-            activities in early childhood education
+            Explore practical techniques for implementing engaging art activities in early childhood education
           </p>
         </div>
       </section>
