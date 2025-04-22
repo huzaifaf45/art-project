@@ -1,4 +1,6 @@
-import Video1 from "../assets/video1.mp4";
+import Video1 from "../assets/technology1.mp4";
+import Video2 from "../assets/technology2.mp4";
+import Video3 from "../assets/technology3.mp4";
 import Image1 from "../assets/img1.jpeg";
 import Image2 from "../assets/img2.jpeg";
 import Image3 from "../assets/img3.jpeg";
@@ -260,7 +262,7 @@ function TechnologyPage() {
               className="rounded-lg w-full"
               controls
               preload="metadata"
-              src={Video1}
+              src={Video2}
             />
             <p className="mt-4 text-gray-600 italic text-center">
               Digital Storytelling for Young Learners
@@ -271,7 +273,7 @@ function TechnologyPage() {
               className="rounded-lg w-full"
               controls
               preload="metadata"
-              src={Video1}
+              src={Video3}
             />
             <p className="mt-4 text-gray-600 italic text-center">
               Coding and Robotics in Early Education
