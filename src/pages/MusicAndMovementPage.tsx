@@ -1,4 +1,6 @@
-import Video1 from "../assets/video1.mp4";
+import Video1 from "../assets/music1.mp4";
+import Video2 from "../assets/music2.mp4";
+import Video3 from "../assets/music3.mp4";
 import Image1 from "../assets/img1.jpeg";
 import Image2 from "../assets/img2.jpeg";
 import Image3 from "../assets/img3.jpeg";
@@ -22,15 +24,15 @@ function MusicAndMovementPage() {
               Introduction
             </h2>
             <p className="text-gray-600 leading-relaxed">
-              Movement and music are crucial in early childhood education as they
-              are necessary for the dynamic and vital development of creativity.
-              Rhythm, dance, and musical exploration help in the development of
-              integration, expressiveness, and emotional intelligence. Movement
-              nurtures the imaginative abilities, while music develops the
-              listening skills and a sense of flow and tempo, enabling young
-              learners to create and experiment with sounds and actions. These
-              areas promote analytical, communal, and physical development,
-              making learning light hearted and comprehensive.
+              Movement and music are crucial in early childhood education as
+              they are necessary for the dynamic and vital development of
+              creativity. Rhythm, dance, and musical exploration help in the
+              development of integration, expressiveness, and emotional
+              intelligence. Movement nurtures the imaginative abilities, while
+              music develops the listening skills and a sense of flow and tempo,
+              enabling young learners to create and experiment with sounds and
+              actions. These areas promote analytical, communal, and physical
+              development, making learning light hearted and comprehensive.
             </p>
           </div>
           <div className="md:w-1/2">
@@ -51,8 +53,8 @@ function MusicAndMovementPage() {
               Creativity Theories and Perspectives
             </h2>
             <p className="text-gray-600 leading-relaxed">
-              Theories such as Howard Gardner's Multiple Intelligences points out
-              the physical-kinesthetic and musical intelligences as the
+              Theories such as Howard Gardner's Multiple Intelligences points
+              out the physical-kinesthetic and musical intelligences as the
               necessary aspects of creative expression in children. Loris
               Malaguzzi's Reggio Emilia approach also supports that music and
               movement are "languages of expression," inspiring creativity
@@ -85,9 +87,9 @@ function MusicAndMovementPage() {
               rhythm sticks, and musical instruments like guitars or drums.
               Digital technologies such as music apps (e.g., Loopimal, Toca
               Band) and interactive whiteboards can allow children to create,
-              rearrange(remix), and respond to sounds creatively. Audio
-              speakers for playing various categories and racial or folk music
-              also broadens the exposure.
+              rearrange(remix), and respond to sounds creatively. Audio speakers
+              for playing various categories and racial or folk music also
+              broadens the exposure.
             </p>
           </div>
           <div className="md:w-1/2">
@@ -147,7 +149,9 @@ function MusicAndMovementPage() {
             </h2>
             <div className="space-y-4">
               <div className="border-l-4 border-teal-500 pl-4">
-                <h3 className="font-semibold text-lg">Musical Touch and Feel</h3>
+                <h3 className="font-semibold text-lg">
+                  Musical Touch and Feel
+                </h3>
                 <p className="text-gray-600">
                   Infants explore texture and sound by touching musical toys
                   while educators sing and name the objects. This supports
@@ -193,14 +197,14 @@ function MusicAndMovementPage() {
               As an early childhood educator, I have a strong personal interest
               for music and movement, which directly nourishes my ability of
               creativity in this area. My enthusiasm for dance and rhythm allows
-              me to model joy, reliance, and extemporize—qualities that
-              motivate children to express themselves freely.
+              me to model joy, reliance, and extemporize—qualities that motivate
+              children to express themselves freely.
             </p>
             <p className="text-gray-600 leading-relaxed">
               I have an eye to observe how children respond to music mentally
               and physically, which helps me in creating more activities for
-              their interests which also helps in their developmental stages.
-              I value student centered approach and spontaneity in their
+              their interests which also helps in their developmental stages. I
+              value student centered approach and spontaneity in their
               activities, both of which are critical in movement and music
               experiences.
             </p>
@@ -237,7 +241,7 @@ function MusicAndMovementPage() {
               className="rounded-lg w-full"
               controls
               preload="metadata"
-              src={Video1}
+              src={Video2}
             />
             <p className="mt-4 text-gray-600 italic text-center">
               Musical Instruments for Young Children
@@ -248,7 +252,7 @@ function MusicAndMovementPage() {
               className="rounded-lg w-full"
               controls
               preload="metadata"
-              src={Video1}
+              src={Video3}
             />
             <p className="mt-4 text-gray-600 italic text-center">
               Creative Dance and Expression
