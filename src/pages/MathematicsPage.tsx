@@ -1,4 +1,6 @@
-import Video1 from "../assets/video1.mp4";
+import Video1 from "../assets/math1.mp4";
+import Video2 from "../assets/math2.mp4";
+import Video3 from "../assets/math3.mp4";
 import Image1 from "../assets/img1.jpeg";
 import Image2 from "../assets/img2.jpeg";
 import Image3 from "../assets/img3.jpeg";
@@ -259,7 +261,7 @@ function MathematicsPage() {
               className="rounded-lg w-full"
               controls
               preload="metadata"
-              src={Video1}
+              src={Video2}
             />
             <p className="mt-4 text-gray-600 italic text-center">
               Pattern Recognition Activities
@@ -270,7 +272,7 @@ function MathematicsPage() {
               className="rounded-lg w-full"
               controls
               preload="metadata"
-              src={Video1}
+              src={Video3}
             />
             <p className="mt-4 text-gray-600 italic text-center">
               Creative Problem-Solving in Math
