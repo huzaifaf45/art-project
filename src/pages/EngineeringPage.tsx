@@ -1,4 +1,6 @@
-import Video1 from "../assets/video1.mp4";
+import Video1 from "../assets/engineering1.mp4";
+import Video2 from "../assets/engineering2.mp4";
+import Video3 from "../assets/engineering3.mp4";
 import Image1 from "../assets/img1.jpeg";
 import Image2 from "../assets/img2.jpeg";
 import Image3 from "../assets/img3.jpeg";
@@ -29,10 +31,11 @@ function EngineeringPage() {
               imagination, children explore different ideas such as spatial
               reasoning, planning, and cause-and-effect. Engineering supports
               creativity and critical thinking as children test their ideas,
-              revise their work, and develop new solutions through trial and error
-              based upon their thinking and approach. Whether building towers,
-              creating ramps, or designing bridges, young learners engage in critical
-              thinking and innovate new ideas to solve the problems.
+              revise their work, and develop new solutions through trial and
+              error based upon their thinking and approach. Whether building
+              towers, creating ramps, or designing bridges, young learners
+              engage in critical thinking and innovate new ideas to solve the
+              problems.
             </p>
           </div>
           <div className="md:w-1/2">
@@ -115,32 +118,37 @@ function EngineeringPage() {
               <div className="border-l-4 border-teal-500 pl-4">
                 <h3 className="font-semibold text-lg">Babies (0-2 years)</h3>
                 <p className="text-gray-600">
-                  "Stack and Knock" – Infants stack soft blocks or cups and explore
-                  cause and effect by knocking them down, developing coordination
-                  and early design awareness.
+                  "Stack and Knock" – Infants stack soft blocks or cups and
+                  explore cause and effect by knocking them down, developing
+                  coordination and early design awareness.
                 </p>
               </div>
               <div className="border-l-4 border-teal-500 pl-4">
                 <h3 className="font-semibold text-lg">Toddlers (2-3 years)</h3>
                 <p className="text-gray-600">
-                  "Tunnel Builders" – Toddlers use boxes and tubes to build tunnels
-                  for toy cars, learning about structure, size, and space.
+                  "Tunnel Builders" – Toddlers use boxes and tubes to build
+                  tunnels for toy cars, learning about structure, size, and
+                  space.
                 </p>
               </div>
               <div className="border-l-4 border-teal-500 pl-4">
-                <h3 className="font-semibold text-lg">Preschoolers (3-5 years)</h3>
+                <h3 className="font-semibold text-lg">
+                  Preschoolers (3-5 years)
+                </h3>
                 <p className="text-gray-600">
                   "Bridge Challenge" – Children design and build a bridge using
-                  straws, paper, and tape to hold a toy animal, exploring balance
-                  and weight.
+                  straws, paper, and tape to hold a toy animal, exploring
+                  balance and weight.
                 </p>
               </div>
               <div className="border-l-4 border-teal-500 pl-4">
-                <h3 className="font-semibold text-lg">Older Kids (6-8 years)</h3>
+                <h3 className="font-semibold text-lg">
+                  Older Kids (6-8 years)
+                </h3>
                 <p className="text-gray-600">
                   "STEM City" – Children plan and construct a mini-city using
-                  recycled materials, integrating ideas of function, sustainability,
-                  and urban design.
+                  recycled materials, integrating ideas of function,
+                  sustainability, and urban design.
                 </p>
               </div>
             </div>
@@ -150,15 +158,20 @@ function EngineeringPage() {
             </h2>
             <div className="space-y-4">
               <div className="border-l-4 border-teal-500 pl-4">
-                <h3 className="font-semibold text-lg">Babies: Rolling Ramp Fun</h3>
+                <h3 className="font-semibold text-lg">
+                  Babies: Rolling Ramp Fun
+                </h3>
                 <p className="text-gray-600">
-                  Infants explore inclined surfaces with balls or cars. They crawl
-                  after the objects and observe how the incline affects speed and
-                  movement—early engineering and cause-effect learning.
+                  Infants explore inclined surfaces with balls or cars. They
+                  crawl after the objects and observe how the incline affects
+                  speed and movement—early engineering and cause-effect
+                  learning.
                 </p>
               </div>
               <div className="border-l-4 border-teal-500 pl-4">
-                <h3 className="font-semibold text-lg">Toddlers: Box Builders</h3>
+                <h3 className="font-semibold text-lg">
+                  Toddlers: Box Builders
+                </h3>
                 <p className="text-gray-600">
                   Toddlers use cardboard boxes of different sizes to create
                   structures—houses, vehicles, or towers—encouraging planning,
@@ -170,9 +183,10 @@ function EngineeringPage() {
                   Preschoolers: Egg Drop Challenge
                 </h3>
                 <p className="text-gray-600">
-                  Children design and build a contraption using soft and recycled
-                  materials to protect an egg from breaking when dropped—engaging
-                  in creative thinking, testing, and problem-solving.
+                  Children design and build a contraption using soft and
+                  recycled materials to protect an egg from breaking when
+                  dropped—engaging in creative thinking, testing, and
+                  problem-solving.
                 </p>
               </div>
             </div>
@@ -195,18 +209,19 @@ function EngineeringPage() {
               Critical Reflection and Evaluation
             </h2>
             <p className="text-gray-600 leading-relaxed mb-4">
-              Engineering provokes my inner problem-solving and creative abilities,
-              which enhances my ability and helps me to design engaging, hands-on
-              learning and innovative experiences for children. I enjoy crafting
-              challenges that pushes the thinking boundaries of the children and
-              make them think critically, work collaboratively, and revise their ideas.
+              Engineering provokes my inner problem-solving and creative
+              abilities, which enhances my ability and helps me to design
+              engaging, hands-on learning and innovative experiences for
+              children. I enjoy crafting challenges that pushes the thinking
+              boundaries of the children and make them think critically, work
+              collaboratively, and revise their ideas.
             </p>
             <p className="text-gray-600 leading-relaxed">
               My creative strengths lie in molding the everyday materials and
               experiences into opportunities for construction, exploration, and
-              innovation. I encourage children to take risks through their learning
-              process, experiment with different materials, and see "failure" as
-              part of the learning process.
+              innovation. I encourage children to take risks through their
+              learning process, experiment with different materials, and see
+              "failure" as part of the learning process.
             </p>
             <p className="text-gray-600 leading-relaxed">
               My mindset allows me to adapt to activities based on children's
@@ -248,7 +263,7 @@ function EngineeringPage() {
               className="rounded-lg w-full"
               controls
               preload="metadata"
-              src={Video1}
+              src={Video2}
             />
             <p className="mt-4 text-gray-600 italic text-center">
               Building and Construction Activities
@@ -259,7 +274,7 @@ function EngineeringPage() {
               className="rounded-lg w-full"
               controls
               preload="metadata"
-              src={Video1}
+              src={Video3}
             />
             <p className="mt-4 text-gray-600 italic text-center">
               Problem-Solving Through Engineering
